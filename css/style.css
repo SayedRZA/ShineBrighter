@@ -1,0 +1,35 @@
+.navbar {
+    width: 100%;
+    background-color: #adadad;
+    overflow: auto;
+  }
+  
+  .navbar a {
+    float: right;
+    padding: 12px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .navbar a:hover {
+    background-color: #ffffff;
+  }
+  
+  .active {
+    background-color: #188d1e;
+  }
+  
+  @media screen and (max-width: 500px) {
+    .navbar a {
+      float: none;
+      display: block;
+    }
+  }
+  #navigation-container{
+    position: relative;
+    background-color: #352d2f;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }

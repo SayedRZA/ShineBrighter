@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <link rel="stylesheet" href="css/style.css" />
@@ -32,13 +32,13 @@
         <div class="container">
     <div class="navbar">
         <div class="logo">
-          <img src="images/ShineBrighterLogo.jpg" width="100px" />
+          <img src="images/PNGSHINEBRIGHTER2.PNG" width="100px" />
         </div>
         <nav>
           <ul id="menuitems">
             <li><a href="index.html">Home</a></li>
             <li><a href="shop.html">Shop</a></li>
-            <li><a href="">Contact Us</a></li>
+            <li><a href="contact.html">Contact Us</a></li>
             <li><a href="signin.html">Sign Up</a></li>
             <li><a href="locations.html">Locations</a></li>
           </ul>
@@ -141,6 +141,8 @@
 </div>
     
     </div>
+
+
     
     <div class="features">
 
@@ -219,12 +221,79 @@
     </div>
         
         </div>
+
+
+
+        
+<!-- ----footer------ -->
+
+<div class="footer">
+    <div class="container">
+      <div class="row">
+        <div class="footer-col-1">
+          <h3>Download App</h3>
+          <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+            <div class="app-logo">
+              <img src="images/Google_Play_Store_badge_EN.svg.png">
+              <img src="images/applestorelogo.jpg" height="41px">
+              
+            </div>
+  
+        </div>
+        <div class="footer-col-2">
+          <img src="images/PNGSHINEBRIGHTER.PNG" alt="">
+          <p>Best quality in the world!!!</p>
+        </div>
+        <div class="footer-col-3">
+          <h3>Useful Links</h3>
+          <ul>
+            <li>Coupns</li>
+            <li>Blog post</li>
+            <li>Return Policy</li>
+            <li>Join Affiliate</li>
+          </ul>
+        </div>
+        <div class="footer-col-4">
+          <h3>Follow Us</h3>
+          <ul>
+            <li>Facebook</li>
+            <li>Twitter</li>
+            <li>Instagram</li>
+            <li>YouTube</li>
+          </ul>
+        </div>
+      </div>
+  <hr>
+  <p class="copyright">Copyright2023 - Shine Brighter</p>
+  
+    </div>
+  </div>
+  
    
 
 
+<!-- -----js for toggle menu----- -->
 
+<script>
+    var menuitems = document.getElementById("menuitems");
+  
+    menuitems.style.maxHeight = "0px";
+  
+  
+    function menutoggle(){
+  
+      if(menuitems.style.maxHeight == "0px"){
+        menuitems.style.maxHeight = "200px";
+  
+      }
+  
+      else {
+        menuitems.style.maxHeight = "0px";
+      }
+    }
+  
 
-
+</script>
      
     
     

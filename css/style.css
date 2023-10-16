@@ -27,6 +27,7 @@ nav ul li{
   display: inline-block;
   margin-right: 20px;
 }
+
 a{
   text-decoration: none;  
   color: #555;
@@ -34,6 +35,8 @@ a{
     color: #555;
   }
 }
+
+
 .container{
   max-width: 1300px;
   margin: auto;
@@ -63,6 +66,7 @@ min-width: 300px;
   font-size: 50px;
   line-height: 60px;
   margin: 25px 0;
+ 
 }
 .btn{
   display: inline-block;
@@ -75,7 +79,7 @@ transition: background 0.3s ;
 
 }
   .btn:hover{
-    background: #533434;
+    background: #b60e0e;
   }
 
 
@@ -154,12 +158,6 @@ margin-top: 70px;
 }
 
 
-
-
-
-
-
-
 .col-4{
   flex-basis: 25%;
   padding: 10px;
@@ -179,6 +177,7 @@ width: 100%;
   position: relative;
   line-height: 60px;
   color: #555;
+
 }
 .title::after{
   content: '';
@@ -480,7 +479,10 @@ button:hover {
   box-shadow: 0 4px 8px 0 rgb(0, 0, 0);
   transition: 0.3s;
   width: 40%;
-  border-radius: 5px;
+  border-radius: 15px;
+  height: 550px;
+
+
 }
 
 .features .card:hover {
@@ -488,11 +490,15 @@ button:hover {
 }
 
 .features .card img {
-  border-radius: 5px 5px 0 0;
+  border-radius: 15px 15px 0 0;
+  height: 250px;
+background-size: cover;
 }
 
 .features .card .container {
   padding: 2px 16px;
+  justify-content: center;
+ 
 }
 
 

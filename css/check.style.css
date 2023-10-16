@@ -81,7 +81,7 @@ body {
   }
   
   a {
-    color: #2196F3;
+    color: #008cff;
   }
   
   hr {
@@ -90,7 +90,7 @@ body {
   
   span.price {
     float: right;
-    color: grey;
+    color: rgb(0, 0, 0);
   }
   
   /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other (also change the direction - make the "cart" column go on top) */

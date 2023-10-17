@@ -93,7 +93,3 @@ I haved used modern web technologies to create a seamless and user-friendly shop
 
 - Secure e-commerce frameworks for safe and efficient transactions.
 
-
-
-
-Thank you for choosing the High-Quality Jewelry Emporium for all your jewelry needs. We look forward to helping you discover the perfect piece to celebrate your most cherished moments.

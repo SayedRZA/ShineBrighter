@@ -10,27 +10,87 @@ High quality jewelry and affordable. Rare collections, and real and lab-grown di
 
 - **Customization:** Personalize your jewelry with custom engravings, gemstone choices, and metals to create unique, one-of-a-kind pieces.
 
-- **Expert Guidance:** Our experienced jewelry experts are here to assist you in making informed decisions and selecting the perfect piece for any occasion.
+- **Easy Navigations:** Up to date website with easy navigation bar to go through the pages.
 
-- **Secure Shopping:** We prioritize your safety and privacy with secure payment gateways, robust data protection, and a hassle-free return policy.
+- **Secure Shopping:** I prioritize your safety and privacy with secure payment gateways.
 
-## Demo
+## Pages
 To experience the luxury and elegance of our jewelry collections, please visit our website:
 
-![Website Screenshot](/path/to/screenshot.png)
-[Explore Our Jewelry Collections](https://your-jewelry-website-url.com)
+
+### Explore Our Jewelry Collections
+#### Front Page
+<img
+  src="/READMEimages/front page.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  #### Products
+  <img
+  src="/READMEimages/products1.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+   <img
+  src="/READMEimages/product2.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  #### Offers
+   <img
+  src="/READMEimages/offer piece.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  #### Locations
+ <img
+  src="/READMEimages/locations.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  #### Login
+<img
+  src="/READMEimages/login.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  #### Sign up
+<img
+  src="/READMEimages/sign up.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+#### Checkout
+<img
+  src="/READMEimages/checkout page pay.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  #### Feedbacks
+  <img
+  src="/READMEimages/testimonal.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  #### Footer
+<img
+  src="/READMEimages/footer.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+
+
+
 
 ## Technologies Used
-We've used modern web technologies to create a seamless and user-friendly shopping experience, including:
+I haved used modern web technologies to create a seamless and user-friendly shopping experience, including:
 
-- HTML5 and CSS3 for an appealing and responsive website design.
-- JavaScript for interactive features and functionalities.
+- HTML5 and CSS for an appealing and responsive website design.
+
 - Secure e-commerce frameworks for safe and efficient transactions.
 
-## Contributing
-We welcome collaboration from experts in the jewelry industry, whether you're a designer, gemologist, or someone passionate about high-quality jewelry. To contribute, please follow the steps mentioned in the [Contributing](#contributing) section of our README.
 
-## License
-The High-Quality Jewelry Emporium operates under the [MIT License](LICENSE.md). You are welcome to explore our website and engage with its content. Please refer to the [LICENSE](LICENSE.md) file for more details.
+
 
 Thank you for choosing the High-Quality Jewelry Emporium for all your jewelry needs. We look forward to helping you discover the perfect piece to celebrate your most cherished moments.

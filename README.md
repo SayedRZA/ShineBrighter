@@ -81,7 +81,7 @@ To experience the luxury and elegance of our jewelry collections, please visit o
 
 
 
-##HTML/CSS codes 
+## HTML/CSS codes 
 #### Gives rating stars
 ![Alt text](image.png)
 #### Results

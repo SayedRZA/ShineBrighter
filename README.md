@@ -24,65 +24,68 @@ To experience the luxury and elegance of our jewelry collections, please visit o
   src="/READMEimages/front page.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
   #### Products
   <img
   src="/READMEimages/products1.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
    <img
   src="/READMEimages/product2.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
   #### Offers
    <img
   src="/READMEimages/offer piece.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
   #### Locations
  <img
   src="/READMEimages/locations.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
   #### Login
 <img
   src="/READMEimages/login.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
   #### Sign up
 <img
   src="/READMEimages/sign up.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
 #### Checkout
 <img
   src="/READMEimages/checkout page pay.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
   #### Feedbacks
   <img
   src="/READMEimages/testimonal.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
   #### Footer
 <img
   src="/READMEimages/footer.png"
   alt="Alt text"
   title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
 
 
 
-
-
+##HTML/CSS codes 
+#### Gives rating stars
+![Alt text](image.png)
+#### Results
+![Alt text](image-1.png)
 ## Technologies Used
 I haved used modern web technologies to create a seamless and user-friendly shopping experience, including:
 
